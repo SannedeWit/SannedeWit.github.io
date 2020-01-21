@@ -374,9 +374,71 @@ h3 {
    text-align: justify;
 }
 
+
+/*infogram*/
 .infogram {
     width: 1200px;
     margin-top: 0px;
     margin-left: 450px;
 
+}
+
+/*footer*/
+
+.footer{
+    background-color: #bec5ad;
+    color: white;
+    padding: 60px;
+    height: 100px;
+    margin-top: 300px;
+    
+}
+
+
+
+.fa-linkedin {
+    color: white;
+    margin-right: 15px;
+}
+
+.fa-instagram {
+    color: white;
+    margin-right: 15px;
+}
+
+.fa-globe {
+    color: white;
+    margin-right: 0px ;
+}
+
+.icons {
+    margin-left: 650px;
+}
+
+.tekst-footer {
+    margin-top: 20px;
+    font-family: bebas-neue;
+    color: white;
+    font-size: 20px;
+    margin-left: 520px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.credits {
+    margin-top: 20px;
+    font-family: bahnschrift;
+    font-size: 12px;
+    color: white;
+    margin-left: 650px;
+}
+
+hr {
+    background-color: white;
+    width: 50%;
+    margin-top: 20px;
+    height: 3px;
+    border: 0;
 }
